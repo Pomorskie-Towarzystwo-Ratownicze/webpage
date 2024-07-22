@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /images/
-Disallow: /js/
-Disallow: /_src/
-
-Sitemap: https://ptr.szczecin.pl/sitemap.xml
